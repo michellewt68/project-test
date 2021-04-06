@@ -1,1 +1,2 @@
-inisiasi code fitur register
+inisialisasi code fitur register
+penambahan isi code fitur register
